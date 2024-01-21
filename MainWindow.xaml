@@ -1,0 +1,12 @@
+﻿<Window x:Class="PeopleInfoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="People Info" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="PeopleList" SelectionChanged="PeopleList_SelectionChanged"/>
+        <Button Content="Add" Click="Add_Click"/>
+        <Button Content="Edit" Click="Edit_Click"/>
+        <Button Content="Delete" Click="Delete_Click"/>
+        <!-- Other UI elements for displaying and editing details -->
+    </Grid>
+</Window>

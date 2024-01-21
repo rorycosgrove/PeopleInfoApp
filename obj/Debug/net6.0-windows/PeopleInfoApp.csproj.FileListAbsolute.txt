@@ -1,0 +1,10 @@
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp.csproj.AssemblyReference.cache
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp_MarkupCompile.cache
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp.g.resources
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp.AssemblyInfoInputs.cache
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp.AssemblyInfo.cs
+C:\Users\roryc\source\repos\PeopleInfoApp\obj\Debug\net6.0-windows\PeopleInfoApp.csproj.CoreCompileInputs.cache
